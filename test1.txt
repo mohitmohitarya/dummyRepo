@@ -4,3 +4,6 @@ adding to stage
 changes made in master now
 
 changed in local without taking an update. will have to do merging now.
+
+changing in master now and same time editing in local without making a pull request
+
