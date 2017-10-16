@@ -2,3 +2,5 @@ modified this file
 adding to stage
 
 changes made in master now
+
+changing in master now and same time editing in local without making a pull request
