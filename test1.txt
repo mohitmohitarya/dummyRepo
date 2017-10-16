@@ -2,3 +2,5 @@ modified this file
 adding to stage
 
 changes made in master now
+
+changed in local without taking an update. will have to do merging now.
